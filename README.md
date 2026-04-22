@@ -29,8 +29,8 @@ The dashboard is divided into several analytical segments:
 - **Figma:** UI/UX Background Design.
 
 ## 📂 Project Structure
-- `Student_Performance.pbix`: The Power BI project file.
-- `Screenshots/`: High-resolution images of the main view and the filter panel.
+- power bi 2.pdix: The Power BI project file.
+- F_V.png/: High-resolution images of the main view and the filter panel.
 
 ---
 © 2026 Abdelrahman Ibrahim. All Rights Reserved.
