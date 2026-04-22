@@ -27,7 +27,6 @@ The dashboard is divided into several analytical segments:
 ## 🚀 Tech Stack
 - **Power BI:** Data Visualization & Interactive UI Logic.
 - **Figma:** UI/UX Background Design.
-- **Data Modeling:** Effective use of categorical data for demographic insights.
 
 ## 📂 Project Structure
 - `Student_Performance.pbix`: The Power BI project file.
